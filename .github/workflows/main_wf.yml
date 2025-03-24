@@ -12,7 +12,7 @@ jobs:
   deploy:
     uses: ./.github/workflows/mi-reusable-workflow.yml
     with:
-      target-directory: ${{inputs.directory}}
+      target-directory: ${{ inputs.target-directory }}
 
   print-outputs:
     runs-on: ubuntu-latest
