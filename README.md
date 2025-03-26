@@ -73,3 +73,5 @@ Sintaxis:
   - Usar *needs* a nivel de job para definir dependencias entre trabajos en un flujo de trabajo.
 
 
+-e 
+Corrección automática tras fallos en CI - miércoles, 26 de marzo de 2025, 10:31:10 CET
